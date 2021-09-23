@@ -1,6 +1,6 @@
 ,model,test_score
 0,KNeighborsClassifier,0.9210526315789473
-1,RandomForestClassifier,0.9649122807017544
+1,RandomForestClassifier,0.9736842105263158
 2,SVC,0.9210526315789473
 3,DecisionTreeClassifier,0.8947368421052632
 4,LogisticRegression,0.956140350877193
@@ -8,4 +8,4 @@
 6,AdaBoostClassifier,0.9649122807017544
 7,GradientBoostingClassifier,0.956140350877193
 8,XGBClassifier,0.9385964912280702
-9,LinearSVC,0.9736842105263158
+9,LinearSVC,0.9473684210526315

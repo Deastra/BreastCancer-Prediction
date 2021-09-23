@@ -3,8 +3,8 @@
 1,Bayes,0.8947,0.8889,0.9412,0.8836,0.9010989010989011,{}
 2,Support Vector Machine,0.9386,0.9583,0.9452,0.936,0.9582417582417582,"{'C': 3, 'kernel': 'linear'}"
 3,Logistic Regression,0.9474,0.9583,0.9583,0.9435,0.9626373626373625,"{'C': 12, 'fit_intercept': True, 'penalty': 'l2', 'solver': 'liblinear'}"
-4,Random Forest Classifier,0.9561,0.9583,0.9718,0.951,0.9406593406593406,"{'criterion': 'gini', 'n_estimators': 15, 'verbose': 0}"
-5,Decision Tree Classifier,0.9035,0.9028,0.942,0.8932,0.9098901098901099,"{'criterion': 'entropy', 'splitter': 'best'}"
+4,Random Forest Classifier,0.9649,0.9861,0.9595,0.9672,0.9406593406593406,"{'criterion': 'gini', 'n_estimators': 25, 'verbose': 1}"
+5,Decision Tree Classifier,0.9035,0.9028,0.942,0.8932,0.9076923076923078,"{'criterion': 'entropy', 'splitter': 'best'}"
 6,Ada Boost Classifier,0.9649,0.9861,0.9595,0.9672,0.9670329670329672,"{'algorithm': 'SAMME', 'n_estimators': 58}"
-7,Gradient Boosting Classifier,0.9561,0.9722,0.9589,0.9551,0.956043956043956,"{'criterion': 'friedman_mse', 'learning_rate': 0.3, 'n_estimators': 97}"
+7,Gradient Boosting Classifier,0.9561,0.9722,0.9589,0.9551,0.9538461538461538,"{'criterion': 'friedman_mse', 'learning_rate': 0.3, 'n_estimators': 97}"
 8,XGBoost Classifier,0.9474,0.9722,0.9459,0.948,0.9670329670329672,"{'eta': 0.3, 'gamma': 1, 'max_depth': 1}"
